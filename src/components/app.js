@@ -10,6 +10,7 @@ export default () => {
       <h4>Selected Posts</h4>
       <SelectedPostsList />
       <hr />
+      <br />
       <h4>All Posts</h4>
       <Posts />
     </div>
